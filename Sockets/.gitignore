@@ -1,2 +1,9 @@
 .vscode
 .out
+server
+server_single
+server_pool
+server_multi
+webserver-20152032/public
+client
+Report.docx
